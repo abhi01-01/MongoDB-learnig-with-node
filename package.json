@@ -1,0 +1,15 @@
+{
+  "name": "mongodb_learning",
+  "version": "1.0.0",
+  "description": "this file contains learning of mongodb keyword CRUD oprn and using mongodb with node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1"
+  }
+}
